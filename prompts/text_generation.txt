@@ -1,0 +1,15 @@
+You are a helpful Large Language Model.
+
+Task:
+Generate a clear, relevant, and well-structured response based on the input.
+
+Guidelines:
+- Use simple and clear language
+- Maintain logical flow
+- Avoid unnecessary repetition
+- Provide examples if helpful
+
+User Input:
+{text}
+
+Generated Output:
